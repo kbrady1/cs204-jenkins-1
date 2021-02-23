@@ -80,7 +80,7 @@ public class CalculatorTest {
         assertEquals(1 , myCalculator.fibonacciNumberFinder(1));
         assertEquals(1 , myCalculator.fibonacciNumberFinder(2));
         assertEquals(2 , myCalculator.fibonacciNumberFinder(3));
-        assertEquals(2 , myCalculator.fibonacciNumberFinder(4));
+        assertEquals(3 , myCalculator.fibonacciNumberFinder(4));
         assertEquals(5 , myCalculator.fibonacciNumberFinder(5));
         assertEquals(8 , myCalculator.fibonacciNumberFinder(6));
         assertEquals(13 , myCalculator.fibonacciNumberFinder(7));
